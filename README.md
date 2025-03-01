@@ -51,6 +51,7 @@ Nick, 10:20:45
 
 
 ⚙️ Project Structure
+
 FaceRecognition/
 │-- face_attendance.py  # Main script
 │-- faces/              # Folder to store known face images
